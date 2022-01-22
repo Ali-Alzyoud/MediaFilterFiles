@@ -11,6 +11,14 @@
             "img": "https://upload.wikimedia.org/wikipedia/en/a/a0/Arachnophobia_%28film%29_POSTER.jpg",
             "filterSrc": "Arachnophobia.1990.720p.BrRip.x264.BOKUTOX.YIFY.mp4.txt",
             "subtitle":"Arachnophobia.1990.720p.BrRip.x264.BOKUTOX.YIFY.srt"
+        },
+        {
+            "title": "Enemy (2013)",
+            "img": "https://upload.wikimedia.org/wikipedia/en/0/0d/Enemy_poster.jpg",
+            "filterSrc": "Enemy.2013.720p.BluRay.x264.YIFY.mp4.txt",
+            "subtitle":"Enemy.2013.720p.BluRay.x264.YIFY.srt"
         }
+
+
     ]
 }
