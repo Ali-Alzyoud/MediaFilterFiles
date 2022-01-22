@@ -18,6 +18,13 @@
             "filterSrc": "Enemy.2013.720p.BluRay.x264.YIFY.mp4.txt",
             "subtitle":"Enemy.2013.720p.BluRay.x264.YIFY.srt"
         }
+        ,
+        {
+            "title": "Kramer vs. Kramer (1979)",
+            "img": "https://upload.wikimedia.org/wikipedia/en/b/b0/Oscar_posters_79.jpg",
+            "filterSrc": "Kramer.vs..Kramer.1979.720p.BluRay.x264.YIFY.mp4.txt",
+            "subtitle":"Kramer.vs..Kramer.1979.720p.BluRay.x264.YIFY.srt"
+        }
 
 
     ]
