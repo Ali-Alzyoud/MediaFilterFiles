@@ -4,26 +4,30 @@
             "title": "Rosemarys Baby (1968)",
             "img": "https://upload.wikimedia.org/wikipedia/en/e/ef/Rosemarys_baby_poster.jpg",
             "filterSrc": "Rosemarys.Baby.1968.720p.BRrip.x264.YIFY.mp4.txt",
-            "subtitle":"Rosemarys.Baby.1968.720p.BRrip.x264.YIFY.srt"
+            "subtitle":"Rosemarys.Baby.1968.720p.BRrip.x264.YIFY.srt",
+            "movie":"https://yts.mx/movies/rosemarys-baby-1968"
         },
         {
             "title": "Arachnophobia (1990)",
             "img": "https://upload.wikimedia.org/wikipedia/en/a/a0/Arachnophobia_%28film%29_POSTER.jpg",
             "filterSrc": "Arachnophobia.1990.720p.BrRip.x264.BOKUTOX.YIFY.mp4.txt",
-            "subtitle":"Arachnophobia.1990.720p.BrRip.x264.BOKUTOX.YIFY.srt"
+            "subtitle":"Arachnophobia.1990.720p.BrRip.x264.BOKUTOX.YIFY.srt",
+            "movie":"https://yts.mx/movies/arachnophobia-1990"
         },
         {
             "title": "Enemy (2013)",
             "img": "https://upload.wikimedia.org/wikipedia/en/0/0d/Enemy_poster.jpg",
             "filterSrc": "Enemy.2013.720p.BluRay.x264.YIFY.mp4.txt",
-            "subtitle":"Enemy.2013.720p.BluRay.x264.YIFY.srt"
+            "subtitle":"Enemy.2013.720p.BluRay.x264.YIFY.srt",
+            "movie":"https://yts.mx/movies/enemy-2013"
         }
         ,
         {
             "title": "Kramer vs. Kramer (1979)",
             "img": "https://upload.wikimedia.org/wikipedia/en/b/b0/Oscar_posters_79.jpg",
             "filterSrc": "Kramer.vs..Kramer.1979.720p.BluRay.x264.YIFY.mp4.txt",
-            "subtitle":"Kramer.vs..Kramer.1979.720p.BluRay.x264.YIFY.srt"
+            "subtitle":"Kramer.vs..Kramer.1979.720p.BluRay.x264.YIFY.srt",
+            "movie":"https://yts.mx/movies/kramer-vs-kramer-1979"
         }
 
 
