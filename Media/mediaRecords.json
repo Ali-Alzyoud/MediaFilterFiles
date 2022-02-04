@@ -1,55 +1,61 @@
 {
     "records": [
         {
+            "title": "A Hero (2021)",
+            "img": "https://upload.wikimedia.org/wikipedia/en/8/8d/A_Hero_Farhadi.jpg",
+            "filterSrc": "",
+            "subtitle": "A.Hero.2021.720p.WEBRip.x264.AAC-[YTS.MX].srt",
+            "movie": "https://yts.mx/movies/a-hero-2021",
+            "video": "https://scenescontrol.s3.eu-central-1.amazonaws.com/A.Hero.2021.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4"
+        },
+        {
             "title": "Rosemarys Baby (1968)",
             "img": "https://upload.wikimedia.org/wikipedia/en/e/ef/Rosemarys_baby_poster.jpg",
             "filterSrc": "Rosemarys.Baby.1968.720p.BRrip.x264.YIFY.mp4.txt",
-            "subtitle":"Rosemarys.Baby.1968.720p.BRrip.x264.YIFY.srt",
-            "movie":"https://yts.mx/movies/rosemarys-baby-1968"
+            "subtitle": "Rosemarys.Baby.1968.720p.BRrip.x264.YIFY.srt",
+            "movie": "https://yts.mx/movies/rosemarys-baby-1968"
         },
         {
             "title": "Arachnophobia (1990)",
             "img": "https://upload.wikimedia.org/wikipedia/en/a/a0/Arachnophobia_%28film%29_POSTER.jpg",
             "filterSrc": "Arachnophobia.1990.720p.BrRip.x264.BOKUTOX.YIFY.mp4.txt",
-            "subtitle":"Arachnophobia.1990.720p.BrRip.x264.BOKUTOX.YIFY.srt",
-            "movie":"https://yts.mx/movies/arachnophobia-1990"
+            "subtitle": "Arachnophobia.1990.720p.BrRip.x264.BOKUTOX.YIFY.srt",
+            "movie": "https://yts.mx/movies/arachnophobia-1990"
         },
         {
             "title": "Enemy (2013)",
             "img": "https://upload.wikimedia.org/wikipedia/en/0/0d/Enemy_poster.jpg",
             "filterSrc": "Enemy.2013.720p.BluRay.x264.YIFY.mp4.txt",
-            "subtitle":"Enemy.2013.720p.BluRay.x264.YIFY.srt",
-            "movie":"https://yts.mx/movies/enemy-2013"
+            "subtitle": "Enemy.2013.720p.BluRay.x264.YIFY.srt",
+            "movie": "https://yts.mx/movies/enemy-2013"
         },
         {
             "title": "Kramer vs. Kramer (1979)",
             "img": "https://upload.wikimedia.org/wikipedia/en/b/b0/Oscar_posters_79.jpg",
             "filterSrc": "Kramer.vs..Kramer.1979.720p.BluRay.x264.YIFY.mp4.txt",
-            "subtitle":"Kramer.vs..Kramer.1979.720p.BluRay.x264.YIFY.srt",
-            "movie":"https://yts.mx/movies/kramer-vs-kramer-1979"
+            "subtitle": "Kramer.vs..Kramer.1979.720p.BluRay.x264.YIFY.srt",
+            "movie": "https://yts.mx/movies/kramer-vs-kramer-1979"
         },
         {
             "title": "Play Misty For Me (1971)",
             "img": "https://upload.wikimedia.org/wikipedia/en/b/b3/Play_misty_for_me.jpg",
             "filterSrc": "Play.Misty.For.Me.1971.720p.BluRay.x264.AAC-[YTS.MX].mp4.txt",
-            "subtitle":"Play.Misty.For.Me.1971.720p.BluRay.x264.AAC-[YTS.MX].srt",
-            "movie":"https://yts.mx/movies/play-misty-for-me-1971"
+            "subtitle": "Play.Misty.For.Me.1971.720p.BluRay.x264.AAC-[YTS.MX].srt",
+            "movie": "https://yts.mx/movies/play-misty-for-me-1971"
         },
         {
             "title": "Memoir Of A Murderer (2017)",
             "img": "https://upload.wikimedia.org/wikipedia/en/3/34/Memoir_of_a_Murderer_-_%EC%82%B4%EC%9D%B8%EC%9E%90%EC%9D%98_%EA%B8%B0%EC%96%B5%EB%B2%95.jpg",
             "filterSrc": "Memoir.Of.A.Murderer.2017.1080p.BluRay.x264-[YTS.AM].mp4.txt",
-            "subtitle":"Memoir.Of.A.Murderer.2017.1080p.BluRay.x264-[YTS.AM].srt",
-            "movie":"https://yts.mx/movies/memoir-of-a-murderer-2017"
+            "subtitle": "Memoir.Of.A.Murderer.2017.1080p.BluRay.x264-[YTS.AM].srt",
+            "movie": "https://yts.mx/movies/memoir-of-a-murderer-2017"
         },
         {
             "title": "Cube (1997)",
             "img": "https://upload.wikimedia.org/wikipedia/en/0/0c/Cube_The_Movie_Poster_Art.jpg",
             "filterSrc": "Cube.1997.1080p.BrRip.x264.bitloks.YIFY.mp4.txt",
-            "subtitle":"Cube.1997.1080p.BrRip.x264.bitloks.YIFY.srt",
-            "movie":"https://yts.mx/movies/cube-1997"
+            "subtitle": "Cube.1997.1080p.BrRip.x264.bitloks.YIFY.srt",
+            "movie": "https://yts.mx/movies/cube-1997"
         }
-
-
     ]
 }
