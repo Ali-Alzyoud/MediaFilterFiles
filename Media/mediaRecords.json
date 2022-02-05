@@ -70,7 +70,8 @@
             "img": "https://raw.githubusercontent.com/Ali-Alzyoud/MediaFilterFiles/main/Media/joker/p.jpg",
             "filterSrc": "https://raw.githubusercontent.com/Ali-Alzyoud/MediaFilterFiles/main/Media/joker/f.txt",
             "subtitle": "https://raw.githubusercontent.com/Ali-Alzyoud/MediaFilterFiles/main/Media/joker/s.srt",
-            "video": "https://raw.githubusercontent.com/Ali-Alzyoud/MediaFilterFiles/main/Media/joker/v.webm"
+            "video": "https://raw.githubusercontent.com/Ali-Alzyoud/MediaFilterFiles/main/Media/joker/v.webm",
+            "isAbsoluteLink" : true
         }
     ]
 }
