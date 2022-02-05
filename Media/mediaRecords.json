@@ -64,6 +64,13 @@
             "filterSrc": "Cube.1997.1080p.BrRip.x264.bitloks.YIFY.mp4.txt",
             "subtitle": "Cube.1997.1080p.BrRip.x264.bitloks.YIFY.srt",
             "movie": "https://yts.mx/movies/cube-1997"
+        },
+        {
+            "title": "Joker Sample online",
+            "img": "https://raw.github.com/Ali-Alzyoud/ScenesControl/main/public/video/joker/p.jpg",
+            "filterSrc": "https://raw.github.com/Ali-Alzyoud/ScenesControl/main/public/video/joker/f.txt",
+            "subtitle": "https://raw.github.com/Ali-Alzyoud/ScenesControl/public/video/joker/s.srt",
+            "video": "https://github.com/Ali-Alzyoud/ScenesControl/raw/main/public/video/joker/v.webm"
         }
     ]
 }
