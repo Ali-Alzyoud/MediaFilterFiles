@@ -33,6 +33,14 @@
             "video": "https://scenescontrol.s3.eu-central-1.amazonaws.com/Infection+(2004)+Dvdrip.%5BSn%5D.mp4"
         },
         {
+            "title": "12 Angry Men (1957)",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/b/b5/12_Angry_Men_%281957_film_poster%29.jpg",
+            "filterSrc": "",
+            "subtitle": "12.Angry.Men.1957.720p.BRrip.x264.YIFY.srt",
+            "movie": "",
+            "video": "https://s3.console.aws.amazon.com/s3/object/scenescontrol?region=eu-central-1&prefix=12.Angry.Men.1957.720p.BRrip.x264.YIFY.mp4"
+        },
+        {
             "title": "Rosemarys Baby (1968)",
             "img": "https://upload.wikimedia.org/wikipedia/en/e/ef/Rosemarys_baby_poster.jpg",
             "filterSrc": "Rosemarys.Baby.1968.720p.BRrip.x264.YIFY.mp4.txt",
