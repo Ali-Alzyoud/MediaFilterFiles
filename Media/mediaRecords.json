@@ -100,9 +100,9 @@
         {
             "title": "Joker Sample online",
             "img": "https://raw.githubusercontent.com/Ali-Alzyoud/MediaFilterFiles/main/Media/joker/p.jpg",
-            "filterSrc": "https://raw.githubusercontent.com/Ali-Alzyoud/MediaFilterFiles/main/Media/joker/f.txt",
-            "subtitle": "https://raw.githubusercontent.com/Ali-Alzyoud/MediaFilterFiles/main/Media/joker/s.srt",
-            "video": "https://raw.githubusercontent.com/Ali-Alzyoud/MediaFilterFiles/main/Media/joker/v.webm",
+            "filterSrc": "joker/f.txt",
+            "subtitle": "joker/s.srt",
+            "video": "joker/v.webm",
             "isAbsoluteLink" : true
         }
     ]
