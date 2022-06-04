@@ -1,5 +1,14 @@
 {
     "records": [
+        
+        {
+            "title": "Misery (1990)",
+            "img": "https://upload.wikimedia.org/wikipedia/en/5/52/Misery_%281990_film_poster%29.png",
+            "filterSrc": "",
+            "subtitle": "Misery (1990).srt",
+            "movie": "https://yts.mx/movies/misery-1990",
+            "video": "https://scenescontrol.s3.eu-central-1.amazonaws.com/Misery+(1990).mp4"
+        },
         {
             "title": "The Victim (1972)",
             "img": "https://i.ebayimg.com/images/g/ejcAAOSwbVViAzHh/s-l400.jpg",
