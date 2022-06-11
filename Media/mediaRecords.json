@@ -26,6 +26,30 @@
             "video": "https://scenescontrol.s3.eu-central-1.amazonaws.com/A.Hero.2021.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4"
         },
         {
+            "title": "A Separation (2011)",
+            "img": "https://upload.wikimedia.org/wikipedia/en/4/41/A_Separation_%282011_film_poster%29.png",
+            "filterSrc": "",
+            "subtitle": "A.Separation.2011.720p.BluRay.x264-[YTS.AM].srt",
+            "movie": "https://yts.mx/movies/a-separation-2011",
+            "video": "https://scenescontrol.s3.eu-central-1.amazonaws.com/A.Separation.2011.720p.BluRay.x264-%5BYTS.AM%5D.mp4"
+        },
+        {
+            "title": "The Salesman (2016)",
+            "img": "https://upload.wikimedia.org/wikipedia/en/8/8c/The_Salesman.png",
+            "filterSrc": "",
+            "subtitle": "The.Salesman.2016.720p.BluRay.x264-[YTS.AM].srt",
+            "movie": "https://yts.mx/movies/the-salesman-2016",
+            "video": "https://scenescontrol.s3.eu-central-1.amazonaws.com/The.Salesman.2016.720p.BluRay.x264-%5BYTS.AM%5D.mp4"
+        },
+        {
+            "title": "About Elly (2009)",
+            "img": "https://upload.wikimedia.org/wikipedia/en/a/aa/About_elly_xlg.jpg",
+            "filterSrc": "",
+            "subtitle": "About.Elly.2009.720p.BluRay.x264.AAC-[YTS.MX].srt",
+            "movie": "https://yts.mx/movies/about-elly-2009",
+            "video": "https://scenescontrol.s3.eu-central-1.amazonaws.com/About.Elly.2009.720p.BluRay.x264.AAC-%5BYTS.MX%5D.mp4"
+        },
+        {
             "title": "Children Of Heaven (1997)",
             "img": "https://upload.wikimedia.org/wikipedia/en/f/f7/Children_of_heaven.jpg",
             "filterSrc": "",
